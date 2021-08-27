@@ -1,0 +1,57 @@
+/*div{
+    background-color: cornsilk;
+
+}
+span{
+    font-size: 40px;
+}
+h1{
+    color: crimson;
+  font-size: 10px;
+  
+}
+p{
+    font-weight: bold;
+}
+#para{
+  color: aquamarine;
+}
+.imgOne{
+    height: 100px;
+    width: 100px;
+  }
+  #one{ 
+      background-color: chartreuse;
+    
+      /*position: relative;*/
+     /*top: 20px;*/
+    /* position: absolute;*/
+    /*position: fixed;*/
+    /*position: static;
+      
+  }
+  
+  #two{
+background-color:  rgb(176, 22, 223);
+}
+#three{
+   background-color: darkblue;
+}
+div{
+    height: 600px;
+}*/
+body{
+    height: 600px;
+    margin: 0px;
+}
+table{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+}
+tr{
+    color: white;
+}
+a{
+    color: white;
+}
